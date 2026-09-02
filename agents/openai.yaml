@@ -1,0 +1,7 @@
+interface:
+  short_description: "核验最新数据，按 LG 投资模型分析标的与持仓并给出条件式行动方案"
+  display_name: "LG 投资顾问"
+  default_prompt: "请使用 $lg-investment-advisor 核验当前事实，再依 LG 投资模型给出带条件的分析。"
+policy:
+  allow_implicit_invocation: true
+
