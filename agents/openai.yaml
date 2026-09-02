@@ -4,4 +4,3 @@ interface:
   default_prompt: "请使用 $lg-investment-advisor 核验当前事实，再依 LG 投资模型给出带条件的分析。"
 policy:
   allow_implicit_invocation: true
-
